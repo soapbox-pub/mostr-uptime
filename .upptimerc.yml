@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://mostr.pub/assets/fediverse.svg
   name: Mostr Bridge
   introTitle: "Mostr bridge uptime"
-  introMessage: "Bridge between ActivityPub and Nostr. https://mostr.pub"
+  introMessage: "Bridge between ActivityPub and Nostr. [https://mostr.pub](https://mostr.pub)"
   navbar:
     - title: Status
       href: /
