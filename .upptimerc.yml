@@ -15,8 +15,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Mostr
-  introTitle: "*Mostr bridge uptime"
-  introMessage: "Mostr is a bridge between ActivityPub and Nostr."
+  introTitle: "Mostr bridge uptime"
+  introMessage: "Bridge between ActivityPub and Nostr."
   navbar:
     - title: Status
       href: /
