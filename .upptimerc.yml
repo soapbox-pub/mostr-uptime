@@ -13,10 +13,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.mostr.pub
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Mostr
+  logoUrl: https://mostr.pub/assets/fediverse.svg
+  name: Mostr Bridge
   introTitle: "Mostr bridge uptime"
-  introMessage: "Bridge between ActivityPub and Nostr."
+  introMessage: "Bridge between ActivityPub and Nostr. https://mostr.pub"
   navbar:
     - title: Status
       href: /
