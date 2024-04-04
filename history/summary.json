@@ -33,19 +33,19 @@
     "url": "https://relay.mostr.pub/",
     "icon": "https://icons.duckduckgo.com/ip3/relay.mostr.pub.ico",
     "slug": "mostr-relay",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 382,
-    "timeWeek": 249,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 235,
+    "timeDay": 451,
+    "timeWeek": 283,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2024-04-04": 0
+      "2024-04-04": 57
     }
   }
 ]
