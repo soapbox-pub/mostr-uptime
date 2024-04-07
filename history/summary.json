@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mostr.pub.ico",
     "slug": "mostr-bridge",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
     "time": 389,
     "timeDay": 208,
     "timeWeek": 232,
@@ -33,9 +33,9 @@
     "url": "https://relay.mostr.pub/",
     "icon": "https://icons.duckduckgo.com/ip3/relay.mostr.pub.ico",
     "slug": "mostr-relay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
@@ -45,6 +45,7 @@
     "timeMonth": 228,
     "timeYear": 228,
     "dailyMinutesDown": {
+      "2024-04-07": 0,
       "2024-04-04": 57
     }
   }
