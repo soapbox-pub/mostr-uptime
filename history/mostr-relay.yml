@@ -1,7 +1,7 @@
 url: https://relay.mostr.pub/
-status: down
-code: 500
-responseTime: 303
-lastUpdated: 2024-04-10T03:36:49.480Z
+status: up
+code: 200
+responseTime: 232
+lastUpdated: 2024-04-10T03:45:22.134Z
 startTime: 2024-03-11T22:28:22.950Z
 generator: Upptime <https://github.com/upptime/upptime>
