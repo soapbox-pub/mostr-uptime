@@ -1,7 +1,7 @@
 url: https://mostr.pub/api/healthcheck
-status: up
-code: 200
-responseTime: 198
-lastUpdated: 2024-04-29T15:09:31.297Z
+status: down
+code: 502
+responseTime: 15751
+lastUpdated: 2024-04-29T15:30:11.096Z
 startTime: 2024-03-11T22:15:27.331Z
 generator: Upptime <https://github.com/upptime/upptime>
