@@ -4,7 +4,7 @@
     "url": "https://mostr.pub/api/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/mostr.pub.ico",
     "slug": "mostr-bridge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
     "uptimeDay": "98.06%",
     "uptimeWeek": "99.72%",
