@@ -4,7 +4,7 @@
     "url": "https://mostr.pub/api/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/mostr.pub.ico",
     "slug": "mostr-bridge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.89%",
@@ -16,6 +16,7 @@
     "timeMonth": 503,
     "timeYear": 414,
     "dailyMinutesDown": {
+      "2024-05-19": 0,
       "2024-05-17": 11,
       "2024-05-09": 7,
       "2024-05-07": 8,
