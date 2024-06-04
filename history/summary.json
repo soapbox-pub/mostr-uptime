@@ -4,12 +4,12 @@
     "url": "https://mostr.pub/api/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/mostr.pub.ico",
     "slug": "mostr-bridge",
-    "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "93.09%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "93.08%",
     "uptimeWeek": "99.01%",
     "uptimeMonth": "99.23%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.23%",
     "time": 397,
     "timeDay": 195,
     "timeWeek": 181,
@@ -41,7 +41,7 @@
       "2024-03-20": 9,
       "2024-03-18": 9,
       "2024-03-17": 32,
-      "2024-03-15": 23
+      "2024-03-15": 16
     }
   },
   {
